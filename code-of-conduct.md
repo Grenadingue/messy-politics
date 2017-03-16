@@ -24,7 +24,7 @@ Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
 advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
+* ~~Trolling, insulting/derogatory comments~~ and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
@@ -43,6 +43,14 @@ that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
+Any use of this power will be referenced on the issues for discussion.
+If a member of the community is aware of an abuse of this power,
+this member has to inform the community to take action against us or to discuss
+with us. This case should never happend, but we recommend everyone to just
+leave, to let us die alone, and do the same project with a less centralized power.
+The lack of time doesn't allow us to do a decentralized platform, and for a
+a project aggregator we accept a less democratic system.
+
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
@@ -55,7 +63,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at sindresorhus@gmail.com. All
+reported by contacting the current project team at chauvin.nico@gmail.com and toma.cristini@gmail.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
