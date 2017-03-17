@@ -1,4 +1,5 @@
 # Trump Tracker
+Online fact checker and referer of Donald Trump's policies
 
 ## Content type
 - Website
