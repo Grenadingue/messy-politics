@@ -28,6 +28,8 @@ Trump policies Tracker aka. "Trump Tracker".
 ## Who
 About twenty-five people have been involved into project's development according to the [contributors list](https://github.com/TrumpTracker/trumptracker.github.io/graphs/contributors). A community has been involved into project's disscussions and data gathering.
 
+The press talked about this project, we can find six references to it on the [tracker's website](https://trumptracker.github.io/about/), like [ProductHunt](https://www.producthunt.com/posts/trump-tracker), [Mashable](https://web.archive.org/web/20170131065124/http://mashable.com/2017/01/05/trump-databases/#oKXNES4qaPqM), [the Huffington Post](https://web.archive.org/web/20170131065125/http://www.huffingtonpost.com/entry/the-democracy-in-code_us_58802ee4e4b0aa1c47ac284c?timestamp=1484796532539), etc...
+
 Donald John Trump, the 45th President of the United States of America is targeted by this solution.
 
 ## Where
