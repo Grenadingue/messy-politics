@@ -10,6 +10,4 @@ The purpose of this list is to aggregate various political ressources at one pla
 See [contributing.md](contributing.md)
 
 ## Mess pool
-- [Foo](sample-ressource.md): Short description
-- [Bar](sample-ressource.md): Foo bar baz
-- [Baz](sample-ressource.md): Lorem ipsum
+- [Trump Tracker](mess-pool/trump-tracker.md): Online fact checker and referer of Donald Trump's policies
