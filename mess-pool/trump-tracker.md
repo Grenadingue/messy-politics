@@ -5,10 +5,11 @@ Online fact checker and referer of Donald Trump's policies
 - Website
 
 ## References
-- Official Trump Tracker website:
-  - https://trumptracker.github.io
-- Source code:
-  - https://github.com/TrumpTracker/trumptracker.github.io
+- Official website: https://trumptracker.github.io
+- Source code: https://github.com/TrumpTracker/trumptracker.github.io
+- Community:
+  - Subreddit: https://www.reddit.com/r/trumptracker
+  - Github issues: https://github.com/TrumpTracker/trumptracker.github.io/issues
 
 ## Description
 On Tuesday November 8th, 2016, Donald John Trump won the electoral vote and is currently the 45th President of the United States of America.
