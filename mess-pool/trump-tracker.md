@@ -22,13 +22,13 @@ The website gives us access to a list of Trump's promises. These promises can ta
 
 ### Trump Tracker's rethoric break-down
 
+## What
+Trump policies Tracker aka. "Trump Tracker".
+
 ## Who
 About twenty-five people have been involved into project's development according to the [contributors list](https://github.com/TrumpTracker/trumptracker.github.io/graphs/contributors). A community has been involved into project's disscussions and data gathering.
 
 Donald John Trump, the 45th President of the United States of America is targeted by this solution.
-
-## What
-Trump policies Tracker aka. "Trump Tracker".
 
 ## Where
 All data is directly available from internet. The tracker is at https://trumptracker.github.io and its source code on github at https://github.com/TrumpTracker/trumptracker.github.io. A community is also present on reddit at https://www.reddit.com/r/trumptracker  and [github issues](https://github.com/TrumpTracker/trumptracker.github.io/issues) are also used to talk about project's content.
