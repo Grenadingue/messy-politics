@@ -23,6 +23,8 @@ The website gives us access to a list of Trump's promises. These promises can ta
 ### Trump Tracker's rethoric break-down
 
 ## Who
+About twenty-five people have been involved into project's development according to the [contributors list](https://github.com/TrumpTracker/trumptracker.github.io/graphs/contributors). A community has been involved into project's disscussions and data gathering.
+
 Donald John Trump, the 45th President of the United States of America is targeted by this solution.
 
 ## What
